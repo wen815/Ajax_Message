@@ -1,0 +1,6 @@
+/*背景*/
+body{ background-image: url('../images/sky.jpg');}
+/*导航栏*/
+nav ul li{list-style: none;display: inline;}
+nav ul li a{text-decoration: none;color:gray;}
+a:visited{color:gray;}
